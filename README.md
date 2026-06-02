@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200" alt="Coding animation">
 </p>
 
-- 🔭 I’m currently a **4th Year B.Tech Student**
+- 🔭 I’m currently a **B.Tech Graduate**
 - 💻 I love working on **Full Stack Projects & Machine Learning Models**
 - 🌱 Currently learning **DevOps & Cloud Technologies**
 - 📫 How to reach me: [kshridharan6@gmail.com] | [LinkedIn](http://linkedin.com/in/k-shridharan-696123347)

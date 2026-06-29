@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently a **B.Tech Graduate**
 - 💻 I love working on **Full Stack Projects & Machine Learning Models**
-- 🌱 Currently learning **DevOps & Cloud Technologies**
+- 🌱 Currently learning **Data Science & Analytics**
 - 📫 How to reach me: [kshridharan6@gmail.com] | [LinkedIn](http://linkedin.com/in/k-shridharan-696123347)
 - 💬 Ask me about **Java, Python, Web Dev, ML**
 

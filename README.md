@@ -1,6 +1,6 @@
 <!-- GitHub Profile README Template -->
 
-<h1 align="center">Hi 👋, I'm [K Shridharan]</h1>
+<h1 align="center">Hi 👋, I'm K Shridharan</h1>
 <h3 align="center">A passionate Full Stack Developer & ML Enthusiast from India</h3>
 
 <p align="center">

@@ -30,15 +30,6 @@
 
 ---
 
-### 🚀 Projects
-
-- 🔹 **[Chat Application (Java Full Stack)](https://github.com/Shridharan04/chat-app)**  
-  A real-time chat web app built using Spring Boot, JavaScript, WebSockets, and MySQL.
-
-- 🔹 **[EPL Match Result Predictor](https://github.com/Shridharan04/epl-predictor)**  
-  Machine learning project using pandas, scikit-learn to predict outcomes of EPL football matches.
-
----
 
 ### 📈 GitHub Stats
 
